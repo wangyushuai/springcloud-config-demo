@@ -1,0 +1,4 @@
+config:
+  name: product-server
+  label: master
+  env: produce
