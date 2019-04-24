@@ -2,5 +2,5 @@ test:
   config:
     name: product-server
     label: master
-    env: produce
+    profiles: produce
     temp: had change!
