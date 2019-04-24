@@ -1,5 +1,5 @@
 test:
   config:
     name: product-service
-    label: master
+    label: other-func
     profiles: pre
