@@ -1,4 +1,5 @@
-config:
-  name: product-server
-  label: master
-  env: produce
+test:
+  config:
+    name: product-server
+    label: master
+    env: produce
