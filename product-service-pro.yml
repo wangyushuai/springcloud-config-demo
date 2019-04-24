@@ -1,0 +1,6 @@
+test:
+  config:
+    name: product-service
+    label: master
+    profiles: pro
+    temp: had change!
