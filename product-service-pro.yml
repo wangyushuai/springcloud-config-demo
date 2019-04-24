@@ -1,6 +1,5 @@
 test:
   config:
     name: product-service
-    label: master
+    label: ohter-func
     profiles: pro
-    temp: had change!
