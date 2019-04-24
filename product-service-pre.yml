@@ -1,0 +1,5 @@
+test:
+  config:
+    name: product-service
+    label: master
+    profiles: pre
