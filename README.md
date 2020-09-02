@@ -1,2 +1,3 @@
-# test-config
-Demo for SpringCloud Config Server
+SpringCloud Config Repo
+---
+测试SpringCloud Config
