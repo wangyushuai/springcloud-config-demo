@@ -1,4 +1,6 @@
-config.test.dbUrl="dbc:mysql://localhost:3306/ApolloConfigDB?characterEncoding=utf8&serverTimezone=UTC"
-config.test.dbUserName="root"
-config.test.dbPassword="123456"
-config.test.static_value="local"
+config:
+  test:
+    dbPassword: remote
+    dbUrl: remote
+    dbUserName: remote
+    static_value: remote
