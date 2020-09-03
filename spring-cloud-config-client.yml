@@ -1,0 +1,5 @@
+test:
+  config:
+    name: git-remote
+    label: git-remote
+    env: git-remote
