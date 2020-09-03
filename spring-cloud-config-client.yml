@@ -1,9 +1,9 @@
 config:
   test:
-    dbPassword: remote2
+    dbPassword: remote3
     dbUrl: remote1
     dbUserName: remote1
-    static_value: remote2
+    static_value: remote3
 
 logging:
   level:
