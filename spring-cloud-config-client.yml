@@ -3,4 +3,4 @@ config:
     dbPassword: remote
     dbUrl: remote
     dbUserName: remote
-    static_value: remote
+    static_value: remote+1
