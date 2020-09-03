@@ -1,5 +1,4 @@
-test:
-  config:
-    name: git-remote
-    label: git-remote
-    env: git-remote
+config.test.dbUrl="dbc:mysql://localhost:3306/ApolloConfigDB?characterEncoding=utf8&serverTimezone=UTC"
+config.test.dbUserName="root"
+config.test.dbPassword="123456"
+config.test.static_value="local"
