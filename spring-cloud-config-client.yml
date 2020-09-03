@@ -4,3 +4,7 @@ config:
     dbUrl: remote1
     dbUserName: remote1
     static_value: remote2
+
+logging:
+  level:
+    root: info
