@@ -1,6 +1,6 @@
 config:
   test:
-    dbPassword: remote
+    dbPassword: remote+1
     dbUrl: remote
     dbUserName: remote
-    static_value: remote+1
+    static_value: remote+3
